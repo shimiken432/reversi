@@ -1,0 +1,7 @@
+C:\Users\kento\Documents\Visual Studio 2015\Projects\reversi\reversi\bin\Debug\reversi.exe.config
+C:\Users\kento\Documents\Visual Studio 2015\Projects\reversi\reversi\bin\Debug\reversi.exe
+C:\Users\kento\Documents\Visual Studio 2015\Projects\reversi\reversi\bin\Debug\reversi.pdb
+C:\Users\kento\Documents\Visual Studio 2015\Projects\reversi\reversi\obj\Debug\reversi.Properties.Resources.resources
+C:\Users\kento\Documents\Visual Studio 2015\Projects\reversi\reversi\obj\Debug\reversi.csproj.GenerateResource.Cache
+C:\Users\kento\Documents\Visual Studio 2015\Projects\reversi\reversi\obj\Debug\reversi.exe
+C:\Users\kento\Documents\Visual Studio 2015\Projects\reversi\reversi\obj\Debug\reversi.pdb
